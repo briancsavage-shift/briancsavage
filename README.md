@@ -1,5 +1,5 @@
 <!--
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=briancsavage&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=briancsavage&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide=issues" />
 -->
 <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=briancsavage&theme=tokyonight" />  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancsavage&layout=compact&theme=tokyonight" />
 
