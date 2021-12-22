@@ -3,8 +3,6 @@
 -->
 <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=briancsavage" />  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancsavage&layout=compact" />
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briancsavage&theme=radical&show_icons=true&include_all_commits&count_private=true)
-
 
 <!--
 **briancsavage/briancsavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
