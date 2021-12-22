@@ -4,8 +4,6 @@
 <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=briancsavage" />  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancsavage&layout=compact" />
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=briancsavage&repo=option-pricing-model)
-
 <!--
 **briancsavage/briancsavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
