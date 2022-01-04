@@ -18,8 +18,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briancsavage&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancsavage&layout=default&theme=gotham&hide=html,css,Makefile,javascript,shell&hide_border=true"  width="30%"> 
-
+  <img src="https://metrics.lecoq.io/briancsavage?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20makefile&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FNew_York"> 
 </div>
-
